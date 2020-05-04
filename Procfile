@@ -1,1 +1,1 @@
-﻿worker: python weatherbot.py $PORT
+﻿worker: python weatherbot.py
