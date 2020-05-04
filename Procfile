@@ -1,1 +1,1 @@
-﻿web: node weatherbot.py
+﻿worker: python weatherbot.py $PORT
